@@ -10,15 +10,15 @@ header:
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association Italia (BETA Italia) is a politically independent and non-profit association to support the organisation of European politics simulations in Italy."
+excerpt: "Bringing Europeans Together Association Portugal (BETA Portugal) is a politically independent and non-profit association to support the organisation of European politics simulations in Portugal."
 
 intro_01:
   - title: Our Association
     image_path: /assets/images/beta-logo-600.png
-    alt: "Logo of BETA Italia"
+    alt: "Logo of BETA Portugal"
     excerpt:
     |
-      The Bringing Europeans Together Association Italia (BETA Italia) is a young, politically independent and non-profit association founded in late 2016 by 7 young Europeans in Rome. BETA Italia now counts more than 40 members all across Italy and beyond.
+      The Bringing Europeans Together Association Portugal (BETA Portugal) is a young, politically independent and non-profit association founded in late 2016 by 7 young Europeans in Rome. BETA Italia now counts more than 40 members all across Portugal and beyond.
     url: "/contact/"
     btn_label: "People behind BETA Italia"
     btn_class: "btn--primary"
@@ -39,7 +39,7 @@ intro_03:
     excerpt:
     |
       In order to achieve its goals, BETA Italia organises 3 different MEUs in Italy: Sapientia in Consilium (Rome), VeUMEU (Venice) and MiMEU (Milan). In addition we offer a project called “Insegnare la cittadinanza europea”, whose aim is to discuss the EU with high school students.
-    _url: "/calendar/"
+    _url: "/"
     _btn_label: "Conference Calendar"
     _btn_class: "btn--primary"
 
