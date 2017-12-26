@@ -1,6 +1,8 @@
 ---
-title: Projects
-modified: 2017-11-13T21:28:48.855Z
-excerpt: Projects carried out by BETA Italia
+title: Projetos/ Projects
+modified: 2017-12-26T21:28:48+00:00
+excerpt: Projects carried out by BETA Portugal
 ---
-Projects carried out by BETA Italia
+Projetos da BETA Portugal
+
+Projects carried out by BETA Portugal
