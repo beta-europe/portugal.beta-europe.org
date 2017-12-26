@@ -1,19 +1,15 @@
-# main links
 main:
-  - title: About
+  - title: Sobre/ About
     url: /about/
-
-  - title: Contact
+  - title: Contactos/ Contact
     url: /contact/
-    
-  - title: News
+  - title: Notícias/ News
     url: /news/
-
   - title: Forum
-    url: https://forum.beta-europe.org
-  
-  - title: Partners
+    url: 'https://forum.beta-europe.org'
+  - title: Parcerias/ Partners
     url: /partner/
-    
-  - title: Projects
+  - title: Projetos/ Projects
     url: /projects/
+teams:
+  - title: BETA Portugal
