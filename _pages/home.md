@@ -1,60 +1,16 @@
 ---
-title: "Simulation of European Politics"
-layout: splash
-permalink: /
-date: 2017-04-11 01:48:41 -04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/header-meu2015.jpg
-  _cta_label: "Join Our Network"
-  _cta_url: "http://forum.beta-europe.org"
-  caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association Portugal (BETA Portugal) is a politically independent and non-profit association to support the organisation of European politics simulations in Portugal."
-
-intro_01:
-  - title: Our Association
-    image_path: /assets/images/beta-logo-600.png
-    alt: "Logo of BETA Portugal"
-    excerpt:
-    |
-      The Bringing Europeans Together Association Portugal (BETA Portugal) is a young, politically independent and non-profit association founded in late 2016 by 7 young Europeans in Rome. BETA Italia now counts more than 40 members all across Portugal and beyond.
-    url: "/contact/"
-    btn_label: "People behind BETA Italia"
-    btn_class: "btn--primary"
-intro_02:
-  - title: Our Mission
-    image_path: /assets/images/AG tutti.jpg
-    alt: "Group Photo BETA Italia"
-    excerpt:
-    |
-      Our mission is to contribute to the development of a European consciousness among the youth and to spread knowledge and awareness about how the European Union works and what does it mean to be a European citizen.
-    url: "/about/"
-    btn_label: "About Us"
-    btn_class: "btn--primary"
-intro_03:
-  - title: Our Work
-    image_path: /assets/images/all-veumeu.jpg
-    alt: "VeUMEU Group photo"
-    excerpt:
-    |
-      In order to achieve its goals, BETA Italia organises 3 different MEUs in Italy: Sapientia in Consilium (Rome), VeUMEU (Venice) and MiMEU (Milan). In addition we offer a project called “Insegnare la cittadinanza europea”, whose aim is to discuss the EU with high school students.
-    _url: "/"
-    _btn_label: "Conference Calendar"
-    _btn_class: "btn--primary"
-
+title: Blog
+modified: 2017-12-26T00:00:00+00:00
+excerpt: >-
+  Se tens uma ideia que gostarias de partilhar, aceita o desafio e envia-nos o
+  teu artigo!
 ---
+Este é o espaço por excelência onde os nossos membros poderão partilhar as suas visões sobre temas relacionados com a União Europeia. Este blog pretende potenciar o debate livre de ideias entre a nossa comunidade.
 
-{% include feature_row id="intro_01" type="left" %}
+Envia a tua proposta de artigo para betaportugal.official@gmail.com
 
-{% include feature_row id="intro_02" type="right" %}
+\------
 
-{% include feature_row id="intro_03" type="left" %}
+This is where our associates can share their visions regarding European Affairs. This blog aims to foster the debate among our community.
 
-<div class="layout--splash__recent--posts">
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in site.posts limit:3 %}
-  {% include archive-single.html %}
-{% endfor %}
-</div>
+Send your article proposal to betaportugal.official@gmail.com
