@@ -1,60 +1,22 @@
 ---
-title: "Simulation of European Politics"
-layout: splash
-permalink: /
-date: 2017-04-11 01:48:41 -04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/header-meu2015.jpg
-  _cta_label: "Join Our Network"
-  _cta_url: "http://forum.beta-europe.org"
-  caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association Portugal (BETA Portugal) is a politically independent and non-profit association to support the organisation of European politics simulations in Portugal."
-
-intro_01:
-  - title: Our Association
-    image_path: /assets/images/beta-logo-600.png
-    alt: "Logo of BETA Portugal"
-    excerpt:
-    |
-      The Bringing Europeans Together Association Portugal (BETA Portugal) is a young, politically independent and non-profit association founded in late 2016 by 7 young Europeans in Rome. BETA Italia now counts more than 40 members all across Portugal and beyond.
-    url: "/contact/"
-    btn_label: "People behind BETA Italia"
-    btn_class: "btn--primary"
-intro_02:
-  - title: Our Mission
-    image_path: /assets/images/AG tutti.jpg
-    alt: "Group Photo BETA Italia"
-    excerpt:
-    |
-      Our mission is to contribute to the development of a European consciousness among the youth and to spread knowledge and awareness about how the European Union works and what does it mean to be a European citizen.
-    url: "/about/"
-    btn_label: "About Us"
-    btn_class: "btn--primary"
-intro_03:
-  - title: Our Work
-    image_path: /assets/images/all-veumeu.jpg
-    alt: "VeUMEU Group photo"
-    excerpt:
-    |
-      In order to achieve its goals, BETA Italia organises 3 different MEUs in Italy: Sapientia in Consilium (Rome), VeUMEU (Venice) and MiMEU (Milan). In addition we offer a project called “Insegnare la cittadinanza europea”, whose aim is to discuss the EU with high school students.
-    _url: "/"
-    _btn_label: "Conference Calendar"
-    _btn_class: "btn--primary"
-
+title: Model European Union
+modified: 2018-01-05T00:00:00+00:00
+excerpt: Aqui encontrarás todas as informações sobre o MEU Lisboa 2018!
 ---
+O Model European Union (MEU) é uma simulação do processo de tomada de decisão da União Europeia. 
 
-{% include feature_row id="intro_01" type="left" %}
+O primeiro MEU teve lugar em 2007 em Estrasburgo (organizado inicialmente por AEGEE e, a partir de 2009, pela nossa parceira, BETA Europe). Tornou-se um sucesso imediato com o apoio do Parlamento Europeu e da Comissão Europeia. Desde aí, diversas MEUs foram surgindo em diversos países, europeus e não só. Assim, criou-se uma larga rede europeia que gerou a família BETA.  
 
-{% include feature_row id="intro_02" type="right" %}
+O MEU Lisboa é o primeiro MEU em Portugal. Com o apoio da BETA, queremos proporcionar a todos uma experiência perfeita. 
 
-{% include feature_row id="intro_03" type="left" %}
+Acreditamos na educação não-formal, nomeadamente na abordagem “learning by doing” e isto guia todo o nosso trabalho no e para o MEU. Queremos que as pessoas se tornem conscientes de como a UE funciona, ligando pessoas de diferentes backgrounds académicos e culturais no processo e dando-lhes a oportunidade de viver todas as experiências relacionadas com a criação de um texto legalmente vinculativo. 
 
-<div class="layout--splash__recent--posts">
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+Serão discutidos dois textos (normalmente uma Diretiva e um Regulamento, ambos sobre o Procedimento Legislativo Ordinário) e os participantes irão assumir o papel de representantes europeus (seja no Conselho da União Europeia, seja no Parlamento Europeu). 
 
-{% for post in site.posts limit:3 %}
-  {% include archive-single.html %}
-{% endfor %}
-</div>
+Em conjunto com a Comissão Europeia, estas duas instituições estão encarregues da legislação europeia. A Comissão prepara o texto inicial e inicia o processo legislativo. Por sua vez, o Parlamento e o Conselho podem adotá-lo, rejeitá-lo ou emendá-lo. A Comissão será representada pela organização, que prepara os textos para discussão. A discussão das propostas é feita através da apresentação de emendas ao texto inicial, alterando os parágrafos existentes ou criando novos parágrafos. 
+
+Os participantes também podem ser jornalistas, fazendo a cobertura do evento através de um jornal, blog, vídeos,...  Com esta experiência, os participantes irão compreender aquilo que a União pode ou não pode fazer.
+
+O MEUs, apesar de ter um grande foco no processo de tomada de decisão, não é feito apenas para estudantes com background de Direito, Ciência Política ou Relações Internacionais. Este programa pretende ser +util a todos aqueles que queiram saber mais sobre assuntos europeus e o modo como estas decisões, que têm impacto nas nossas vidas diárias, são tomadas. 
+
+Esta é uma oportunidade para os participantes saírem da sua zona de conforto dado que o poder está nas mãos deles e alargarem os seus horizontes com novas ideias que poderão ser úteis no futuro. O enriquecimento dos participantes desta simulação é único, não somente pelo conteúdo, mas pela rede de pessoas e eventos a que terão acesso através da BETA Portugal. Não é coincidência que a maioria da organização tenha sido participante de diversas simulações por toda a Europa. O espírito do MEU é um bichinho que não conseguimos largar e tu também sentirás o mesmo.
