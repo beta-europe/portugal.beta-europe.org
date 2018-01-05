@@ -4,6 +4,7 @@ main:
   - title: Notícias
     url: /news/
   - title: Eventos
+    url: /events/
   - title: Contactos
     url: /contact/
   - title: Parcerias
