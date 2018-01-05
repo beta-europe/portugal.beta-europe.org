@@ -1,18 +1,18 @@
 ---
 title: Contactos/ Contact
 modified: 2017-10-31T18:59:01.620Z
-excerpt: Become a member of BETA Portugal
+excerpt: Torna-te membro ou parceiro da BETA Portugal!
 ---
-## Become a Member
+## Torna-te sócio!
 
-Do you want to join BETA Portugal? Fill out this [form](https://goo.gl/forms/SSlAfVf3ZgQqS8zz2) and become a member of our association! We will contact you as soon as possible.
+Queres juntar-te à BETA Portugal? Preenche este formulário! Entraremos em contacto o mais cedo possível! 
 
-If you have any enquires do not hesitate to write us: [betaportugal.official@gmail.com](mailto:contact@italy.beta-europe.org)
+Caso tenhas dúvidas ou precises de mais informações, não hesites em contactar-nos: [betaportugal.official@gmail.com](mailto:contact@italy.beta-europe.org)
 
 ## 
 
-## Become a partner
+## Torna-te parceiro!
 
-If your association shares our values and our goals and you want to become our partner, all you have to do is contact us at [betaportugal.official@gmail.com](mailto:contact@italy.beta-europe.org)
+Se a tua associação tem valores e objetivos semelhantes, uma parceria seria vantajosa para ambos! Apresenta-te num email e entraremos em contacto.  [betaportugal.official@gmail.com](mailto:contact@italy.beta-europe.org)
 
-We welcome new partners and we are more than glad to cooperate with many other associations aimed at bringing Europeans together!
+Estamos abertos a novas parcerias e queremos colaborar com diversas associações!
