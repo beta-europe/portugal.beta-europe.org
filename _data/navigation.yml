@@ -1,15 +1,15 @@
 main:
-  - title: Sobre/ About
+  - title: Sobre
     url: /about/
-  - title: Contactos/ Contact
+  - title: Contactos
     url: /contact/
-  - title: Notícias/ News
+  - title: Notícias
     url: /news/
-  - title: Forum
+  - title: Blog
     url: 'https://forum.beta-europe.org'
-  - title: Parcerias/ Partners
+  - title: Parcerias
     url: /partner/
-  - title: Projetos/ Projects
+  - title: Projetos
     url: /projects/
 teams:
   - title: BETA Portugal
