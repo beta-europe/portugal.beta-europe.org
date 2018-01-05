@@ -50,6 +50,13 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+translation              : true
+footer_scripts:
+  - "/assets/js/main.min.js"
+  # required for language switching (also include above translation:
+  - "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+  - "/assets/js/translation.js"
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
