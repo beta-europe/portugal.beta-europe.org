@@ -5,7 +5,7 @@ main:
     url: /contact/
   - title: Notícias
     url: /news/
-  - title: Blog
+  - title: Fórum
     url: 'https://forum.beta-europe.org'
   - title: Parcerias
     url: /partner/
