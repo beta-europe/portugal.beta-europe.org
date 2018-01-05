@@ -1,6 +1,6 @@
 ---
-title: Contactos/ Contact
-modified: 2017-10-31T18:59:01.620Z
+title: Contactos
+modified: 2018-01-05T18:59:01+00:00
 excerpt: Torna-te membro ou parceiro da BETA Portugal!
 ---
 ## Torna-te sócio!
