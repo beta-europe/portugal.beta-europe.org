@@ -5,7 +5,7 @@ excerpt: >-
   primeiro Model European Union em Portugal. Esta é a simulação de política
   europeia mais realista do continente, o local onde os participantes podem ser
   eurodeputados, ministros ou jornalistas por uns dias!
-link: 'https://www.facebook.com/events/1559322904152017/'
+link: ''
 date: '2018-01-07 09:00:28'
 comments: true
 share: true
