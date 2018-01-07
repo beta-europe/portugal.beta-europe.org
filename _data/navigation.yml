@@ -5,6 +5,8 @@ main:
     url: /news/
   - title: Contactos
     url: /contact/
+  - title: Calendário MEUs
+    url: 'https://www.beta-europe.org/calendar/'
   - title: Parcerias
     url: /partner/
   - title: Fórum
