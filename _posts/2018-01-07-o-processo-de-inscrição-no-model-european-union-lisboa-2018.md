@@ -1,0 +1,45 @@
+---
+title: O processo de inscrição no Model European Union Lisboa 2018
+excerpt: >-
+  "O evento é em março e as inscrições em janeiro? Até lá, vou-me esquecer!"
+  Bem, como irás perceber neste post, este período é extremamente importante
+  para a tua preparação!
+date: '2018-01-07 09:46:42'
+comments: false
+share: true
+published: true
+edit: true
+---
+As inscrições para o MEU Lisboa começam bastante tempo antes da simulação, bem contra a tradição portuguesa. Este tempo é necessário para que todos os participantes sejam encaminhados para a sua instituição, país e partido (no caso dos eurodeputados e ministros) e para que os jornalistas consigam desenvolver algumas das suas plataformas atempadamente. 
+
+Após o fecho das inscrições, os participantes receberam um email de confirmação, onde estarão os detalhes da sua participação. Por exemplo:
+
+
+
+“Caro Participante,
+
+
+
+No MEU Lisboa 2018 serás 
+
+
+
+	Ministro 
+
+
+
+e representarás
+
+
+
+	Reino Unido
+
+
+
+Até março!”
+
+
+
+Neste email, serão também enviados os dois textos legislativos que serão debatidos e um guia para cada um dos textos onde estarão algumas dicas sobre as posições gerais de cada país/partido. Será pedido que cada participante escreva e envie para a organização um position paper, a entregar alguns dias antes do começo da simulação. Assim, logo a partir desse momento, começam os trabalhos! Os participantes terão acesso aos documentos uns dos outros previamente para que comecem a criar alianças, por exemplo.
+
+Qualquer dúvida que tenhas, não hesites em contactar-nos!
