@@ -8,6 +8,8 @@ excerpt: >-
   A BETA Europa é a "umbrella organization" que gere a rede de todas as BETAs
   espalhadas pelo continente europeu! 
 president: Cláudio Teixeira
+header:
+  image: /assets/images/beta europe logo.png
 ---
 A BETA é uma associação politicamente independente e sem fins lucrativos fundada na Alemanha em 2008. O objetivo é fortalecer a sociedade europeia, incentivando os processos democráticos e a consciência sobre a pluralidade das identidades europeias, tanto na nível nacional como internacional.
 
