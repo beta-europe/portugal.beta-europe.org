@@ -7,8 +7,8 @@ excerpt: Os históricos Pastéis de Belém são nossos parceiros!
 country: Portugal
 town: 'Belém, Lisboa'
 header:
-  image: /assets/images/pasteis-de-belem-logo1.jpg
-  teaser: /assets/images/beta europe logo.png
+  image: ''
+  teaser: /assets/images/pasteis-de-belem-logo1.jpg
 ---
 No início do Século XIX, em Belém, junto ao Mosteiro dos Jerónimos, laborava uma refinação de cana-de-açúcar associada a um pequeno local de comércio variado. Como consequência da revolução Liberal ocorrida em 1820, são em 1834 encerrados todos os conventos e mosteiros de Portugal, expulsando o clero e os trabalhadores.
 
