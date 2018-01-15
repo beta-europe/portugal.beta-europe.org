@@ -7,7 +7,8 @@ A BETA Portugal é uma associação juvenil sem fins lucrativos criada em 2017 c
 
 O nosso projeto principal é o Model European Union. A primeira simulação neste modelo em Portugal será o Model European Union Lisboa 2018, entre 1 a 4 de março, na Faculdade de Direito da Universidade de Lisboa. Depois disso, muitos mais MEUs virão!
 
-Mostra o teu apoio no nosso Evento no Facebook: https://www.facebook.com/events/1559322904152017/
+Mostra o teu apoio no nosso Evento no Facebook:
+<https://www.facebook.com/events/1559322904152017/>
 
 Os Model European Union, através da abordagem "aprender fazendo", permitem aos participantes desenvolver skilss que serão extremamente uteis nas suas carreiras futuras.
 
