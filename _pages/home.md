@@ -1,5 +1,5 @@
 ---
-title: "Simulation of European Politics"
+title: "Simulação de Política Europeia"
 layout: splash
 permalink: /
 date: 2017-04-11 01:48:41 -04:00
@@ -10,46 +10,31 @@ header:
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association Portugal (BETA Portugal) is a politically independent and non-profit association to support the organisation of European politics simulations in Portugal."
+excerpt: |
+  A Bringing Europeans Together Association Portugal (BETA Portugal) é uma associação juvenil sem fins lucrativos que pretende promover o conhecimento sobre as instituições europeias e sobre o que significa ser cidadão europeu.
 
 intro_01:
-  - title: Our Association
+  - title: Quem somos?
     image_path: /assets/images/beta-logo-600.png
-    alt: "Logo of BETA Portugal"
+    alt: "BETA Logo"
     excerpt:
     |
-      The Bringing Europeans Together Association Portugal (BETA Portugal) is a young, politically independent and non-profit association founded in late 2016 by 7 young Europeans in Rome. BETA Italia now counts more than 40 members all across Portugal and beyond.
-    url: "/contact/"
-    btn_label: "People behind BETA Italia"
-    btn_class: "btn--primary"
-intro_02:
-  - title: Our Mission
-    image_path: /assets/images/AG tutti.jpg
-    alt: "Group Photo BETA Italia"
-    excerpt:
-    |
-      Our mission is to contribute to the development of a European consciousness among the youth and to spread knowledge and awareness about how the European Union works and what does it mean to be a European citizen.
+      A BETA Portugal é composta por um grupo de jovens dinâmicos de todo o país, fundada em 2017.
     url: "/about/"
-    btn_label: "About Us"
+    btn_label: "Conhece a nossa equipa"
     btn_class: "btn--primary"
-intro_03:
-  - title: Our Work
-    image_path: /assets/images/all-veumeu.jpg
-    alt: "VeUMEU Group photo"
-    excerpt:
-    |
-      In order to achieve its goals, BETA Italia organises 3 different MEUs in Italy: Sapientia in Consilium (Rome), VeUMEU (Venice) and MiMEU (Milan). In addition we offer a project called “Insegnare la cittadinanza europea”, whose aim is to discuss the EU with high school students.
-    _url: "/"
-    _btn_label: "Conference Calendar"
-    _btn_class: "btn--primary"
 
 ---
 
 {% include feature_row id="intro_01" type="left" %}
 
-{% include feature_row id="intro_02" type="right" %}
+A nossa missão é contribuir para o desenvolvimento de uma consciência europeia na juventude de toda a Europa e sensibilizar a população sobre como a União Europeia funciona e o que significa fazer parte desta organização.
 
-{% include feature_row id="intro_03" type="left" %}
+[Sobre nós](/about/){:.btn .btn--primary}
+
+De modo a atingirmos os nossos objetivos, iremos realizar diversos eventos por todo o país, sendo o principal o Model European Union Lisbon. 
+
+[Eventos](/events/){:.btn .btn--primary}
 
 <div class="layout--splash__recent--posts">
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
