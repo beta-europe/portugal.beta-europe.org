@@ -28,13 +28,13 @@ Após o fecho das inscrições, os participantes receberam um email de confirma�
 No MEU Lisboa 2018 serás 
 
 ```
-Ministro 
+Ministro *
 ```
 
 e representarás
 
 ```
-Reino Unido
+Reino Unido *
 ```
 
 Até março!”
@@ -43,4 +43,8 @@ Neste email, serão também enviados os dois textos legislativos que serão deba
 
 Qualquer dúvida que tenhas, não hesites em contactar-nos!
 
-Nota: Não serão feitas devoluções de pagamentos em caso de impossibilidade de participar no evento.
+
+
+\*Os partidos e países que cada participante representará serão atribuídos aleatoriamente. Apenas há possibilidade de apresentar preferência nos papéis: Eurodeputado, Ministro, Jornalista ou Fotógrafo.
+
+Nota: Serão feitas devoluções de pagamento (50% do valor pago) até dia 31 de janeiro.
