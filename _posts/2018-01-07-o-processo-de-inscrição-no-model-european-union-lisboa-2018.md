@@ -7,10 +7,6 @@ share: true
 published: true
 edit: true
 ---
-Início das inscrições: 17 de janeiro
-
-Fecho das inscrições: 10 de fevereiro
-
 Para te inscreveres, terás de preencher um formulário com os teus dados e anexar um documento com um comentário a uma das seguintes questões:
 
 1. A desigualdade salarial é um dos problemas com que muitas mulheres se deparam no mercado de trabalho. De que modo é que a UE pode lutar pela igualdade entre géneros?
@@ -18,6 +14,10 @@ Para te inscreveres, terás de preencher um formulário com os teus dados e anex
 3. Recentemente, a discussão sobre a integração europeia foi reaberta. Que mudanças consideras realistas nos próximos 5 anos?
 
 O formulário está disponível [aqui](https://goo.gl/forms/qUomVNZ12xDFIIbi1)
+
+\    Início das inscrições: 17 de janeiro
+
+\    Fecho das inscrições: 10 de fevereiro
 
 As inscrições para o MEU Lisboa começam bastante tempo antes da simulação, bem contra a tradição portuguesa. Este tempo é necessário para que todos os participantes sejam encaminhados para a sua instituição, país e partido (no caso dos eurodeputados e ministros) e para que os jornalistas consigam desenvolver algumas das suas plataformas atempadamente. 
 
