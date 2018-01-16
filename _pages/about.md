@@ -12,9 +12,7 @@ Mostra o teu apoio no nosso Evento no Facebook:
 
 Os Model European Union, através da abordagem "aprender fazendo", permitem aos participantes desenvolver skilss que serão extremamente uteis nas suas carreiras futuras.
 
-No nosso site, existe também uma secção onde os nossos associados poderão escrever e publicar artigos sobre assusntos europeus e divulgar notícias sobre diversos projetos!
-
-
+No nosso site, existe também uma secção onde os nossos associados poderão escrever e publicar artigos sobre assuntos europeus e divulgar notícias sobre diversos projetos!
 
 Os Órgãos Sociais eleitos para 2017/2018 são:
 
