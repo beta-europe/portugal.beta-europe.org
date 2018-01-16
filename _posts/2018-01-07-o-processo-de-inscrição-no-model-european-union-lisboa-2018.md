@@ -47,4 +47,4 @@ Qualquer dúvida que tenhas, não hesites em contactar-nos!
 
 \*Os partidos e países que cada participante representará serão atribuídos aleatoriamente. Apenas há possibilidade de apresentar preferência nos papéis: Eurodeputado, Ministro, Jornalista ou Fotógrafo.
 
-Nota: Serão feitas devoluções de pagamento (50% do valor pago) até dia 31 de janeiro.
+Nota: Serão feitas devoluções de pagamento (50% do valor pago) para desistências até dia 31 de janeiro.
