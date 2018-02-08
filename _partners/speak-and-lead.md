@@ -7,6 +7,7 @@ excerpt: Defesa da tese? Entrevista de emprego? A Speak and Lead pode ajudar!
 president: David Mourão
 country: Portugal
 location: 'Rua Febus Moniz, Nº19, Oeiras'
+geo: '38.6922827, -9.315043'
 header:
   teaser: /assets/images/27783098_1799298150093851_1133040649_n.png
 ---
