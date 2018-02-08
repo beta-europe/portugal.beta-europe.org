@@ -5,7 +5,7 @@ website: 'https://www.facebook.com/copisel/'
 mail: geral@copisel.com
 town: Lisboa
 country: Portugal
-location: 'Rua Conselheiro Emídio Navarro, nº1 (ISEL) Lisboa'
+location: 'Rua Conselheiro Emídio Navarro, nº1 (ISEL)'
 geo: '38.7561485, -9.1181339'
 header:
   teaser: /assets/images/21272394_1593875173990459_1741479468958501131_n.png
