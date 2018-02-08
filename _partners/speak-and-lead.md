@@ -6,7 +6,7 @@ mail: geral@speakandlead.pt
 excerpt: Defesa da tese? Entrevista de emprego? A Speak and Lead pode ajudar!
 president: David Mourão
 country: Portugal
-city: Oeiras
+town: Oeiras
 location: 'Rua Febus Moniz, Nº19'
 geo: '38.6922827, -9.315043'
 header:
