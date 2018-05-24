@@ -2,6 +2,9 @@
 title: Contactos
 modified: 2018-01-05T18:59:01.000Z
 excerpt: Torna-te membro ou parceiro da BETA Portugal!
+author_profile: false
+sidebar:
+  nav: teams
 ---
 A BETA Portugal está no **Facebook**! Faz like na nossa página!\
 www.facebook.com/betaportugal.official/
