@@ -11,10 +11,10 @@ main:
     url: /contact/
   - title: Fórum
     url: 'https://forum.beta-europe.org'
-
-  
+  - title: MEU Lisbon
+    url: /meulisbon/
 teams:
-  - title: BETA Portugal Teams
-    children:
+  - children:
       - title: Association
         url: /team/association/
+    title: BETA Portugal Teams
