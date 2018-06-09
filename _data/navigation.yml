@@ -11,8 +11,6 @@ main:
     url: /contact/
   - title: Fórum
     url: 'https://forum.beta-europe.org'
-  - title: MEU Lisbon
-    url: /meulisbon/
 teams:
   - children:
       - title: Association
