@@ -17,6 +17,6 @@ Caso tenhas dúvidas ou precises de mais informações, não hesites em contacta
 
 ## Torna-te parceiro!
 
-Se a tua associação tem valores e objetivos semelhantes, uma parceria seria vantajosa para ambos! Apresenta-te num email e entraremos em contacto [connosco](mailto:contact@portugal.beta-europe.org)
+Se a tua associação tem valores e objetivos semelhantes, uma parceria seria vantajosa para ambos! Apresenta-te num email e entraremos em contacto [convosco](mailto:contact@portugal.beta-europe.org)
 
 Estamos abertos a novas parcerias e queremos colaborar com diversas associações!
