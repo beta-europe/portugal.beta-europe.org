@@ -2,7 +2,6 @@
 title: 'Model European Union Coimbra'
 excerpt: 'O Model European Union finalmente chega a Coimbra'
 date: '2020-01-22 00:10:00'
-toc: false
 comments: true
 share: true
 published: true
