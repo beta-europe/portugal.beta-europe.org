@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Model European Union Coimbra
-excerpt: A terceira edição nacional do Model European Union chega a Coimbra em Fevereiro de 2020
+excerpt: A terceira edição Nacional do Model European Union chega a Coimbra em Fevereiro de 2020
 date: 2020-01-25 05:09:30 
 comments: false
 share: true
