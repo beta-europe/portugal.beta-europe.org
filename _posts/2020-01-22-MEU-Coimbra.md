@@ -22,7 +22,6 @@ As [candidaturas](https://docs.google.com/forms/d/e/1FAIpQLSer3_DjARFnSfRXjzJzOI
 
 Para estares a par das novidades em volta do evento, consulta a nossa página do [Facebook](https://www.facebook.com/betaportugal.official/)
 
-![BETA.jpg]({{site.baseurl}}/_posts/BETA.jpg)
-
-
 Encontramos em Coimbra!
+
+![BETA.jpg]({{site.baseurl}}/_posts/BETA.jpg)
