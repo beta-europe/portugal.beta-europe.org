@@ -8,7 +8,7 @@ excerpt: >-
 date: '2018-01-07 09:00:28'
 comments: true
 share: true
-published: false
+published: true
 edit: true
 header:
   image: /assets/images/meulisboa 2018 cover.jpg
