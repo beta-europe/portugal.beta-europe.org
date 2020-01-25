@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 published: true
 ---
 
