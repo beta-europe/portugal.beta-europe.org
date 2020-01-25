@@ -1,6 +1,11 @@
 ---
 published: false
 ---
+
+---
+published: true
+---
+
 ## Model European Union Coimbra
 
 A cidade dos estudantes, da tradição académica e da Universidade mais antiga em Portugal será a anfitriã da terceira edição do Model European Union em PORTUGUÊS.
