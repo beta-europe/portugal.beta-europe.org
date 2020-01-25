@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Model European Union Coimbra
 
