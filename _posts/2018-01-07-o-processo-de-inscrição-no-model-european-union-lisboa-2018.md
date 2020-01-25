@@ -4,7 +4,7 @@ excerpt: '"O evento é em março e as inscrições em janeiro? Até lá, vou-me 
 date: '2018-01-07 09:46:42'
 comments: false
 share: true
-published: true
+published: false
 edit: true
 ---
 Para te inscreveres, terás de preencher um formulário com os teus dados e anexar um documento com um comentário a uma das seguintes questões:
