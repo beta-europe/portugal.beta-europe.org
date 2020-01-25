@@ -10,7 +10,7 @@ edit: true
 
 ## Model European Union Coimbra
 
-A cidade dos estudantes, da tradição académica e da Universidade mais antiga em Portugal será a anfitriã da terceira edição do Model European Union em PORTUGUÊS.
+A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da terceira edição do Model European Union em PORTUGUÊS.
 
 Como em edições passadas, o MEU Lisboa e no MEU Porto, a BETA Portugal promete um evento insquecível. Com uma forte componente educativa, momentos para conheceres os teus "colegas de trabalho e oponentes políticos" tal como a boa tradição Coimbrã manda além da oportunidade de questionares decisores políticos e partilhares a tua exepriência quanto à conferência.
 
