@@ -8,7 +8,7 @@ excerpt: >-
 date: '2018-01-07 09:13:19'
 comments: false
 share: true
-published: true
+published: false
 edit: true
 ---
 No formulário de inscrição terás de nos dizer o papel que queres desempenhar nesta simulação, de acordo com a tua ordem de preferência. Fica aqui a saber aquilo que te espera em cada uma das funções!
