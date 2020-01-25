@@ -5,11 +5,10 @@ excerpt: >-
   primeiro Model European Union em Portugal. Esta é a simulação de política
   europeia mais realista do continente, o local onde os participantes podem ser
   eurodeputados, ministros ou jornalistas por uns dias!
-link: ''
 date: '2018-01-07 09:00:28'
 comments: true
 share: true
-published: true
+published: false
 edit: true
 header:
   image: /assets/images/meulisboa 2018 cover.jpg
