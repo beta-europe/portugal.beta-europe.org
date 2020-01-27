@@ -5,22 +5,9 @@ excerpt: 'Sobre a BETA Portugal '
 ---
 A BETA Portugal é uma associação juvenil sem fins lucrativos criada em 2017 como o ramo português da Bringing Europeans Together Association. O nosso objetivo é contribuir para o desenvolvimento de uma consciência europeia entre os jovens e espalhar o conhecimento sobre como a União Europeia funciona e o que significa ser cidadão europeu.
 
-O nosso projeto principal é o Model European Union.  Estamos de momento a organizar o primeiro MEU Lisbon, de 9 a 14 de Setembro de 2018, na Assembleia da República.
+O nosso projeto principal é o Model European Union que é uma simulação do processo decisório Europeu que através da sua abordagem de "role-play", permitem aos participantes desenvolver as suas soft-skils que serão uma mais-valia e uma factor de destaque nas suas carreiras futuras.
 
-Faz like na página:
-
-https://www.facebook.com/MEULisbon/
-
-
-
-Mostra o teu apoio no nosso Evento no Facebook:
-
-
-https://www.facebook.com/events/651569615183277/
-
-Os Model European Union, através da abordagem "aprender fazendo", permitem aos participantes desenvolver skilss que serão extremamente uteis nas suas carreiras futuras.
-
-No nosso site, existe também uma secção onde os nossos associados poderão escrever e publicar artigos sobre assuntos europeus e divulgar notícias sobre diversos projetos!
+Para estares a par de todas as novidades da BETA Portugal podes seguir-nos no nosso [Facebook](https://www.facebook.com/betaportugal.official/), [Instagram](https://www.instagram.com/betaportugal.official/) ou do nosso [Twitter](https://twitter.com/beta_portugal)
 
 Os Órgãos Sociais eleitos para 2017/2018 são:
 
