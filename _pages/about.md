@@ -26,7 +26,7 @@ Os Órgãos Sociais eleitos para 2017/2018 são:
 
 **Direção**
 
-![Presidente - Cláudia Silva](/assets/images/1.png)
+<img src = "assets/images/1.png" width="300"> 
 
 ![Vice Presidente - Catarina Neves](/assets/images/2.png)
 
