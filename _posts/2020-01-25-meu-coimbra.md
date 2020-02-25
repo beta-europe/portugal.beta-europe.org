@@ -23,3 +23,4 @@ Para estares a par das novidades em volta do evento, consulta a nossa página do
 
 Encontramos em Coimbra!
 ![BETA.jpg]({{site.baseurl}}/_posts/BETA.jpg)
+
