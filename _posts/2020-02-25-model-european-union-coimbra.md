@@ -1,11 +1,14 @@
 ---
 title: Model European Union Coimbra
 excerpt: Model European Union Coimbra
-date: '2019-12-15 09:16:00'
+date: '2020-12-15 09:16:00'
 comments: false
 share: true
 published: true
 edit: true
+header:
+  image: ''
+  teaser: ''
 ---
 A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da **Terceira edição do Model European Union em PORTUGUÊS.**
 
