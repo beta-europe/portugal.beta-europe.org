@@ -1,22 +1,30 @@
 ---
 title: Model European Union Coimbra
+<<<<<<< HEAD
 excerpt: Model European Union Coimbra
 date: '2019-12-15 09:16:00'
+=======
+excerpt: MEU Coimbra
+date: '2019-02-12 11:09:00'
+>>>>>>> fe2bdfd26339e624a86b44df04498534edf562a8
 comments: false
 share: true
 published: true
 edit: true
-header:
-  image: ''
-  teaser: ''
 ---
-A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da **Terceira edição do Model European Union em PORTUGUÊS.**
+A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da Terceira edição do Model European Union em PORTUGUÊS.
 
 Como em edições passadas, o MEU Lisboa e o MEU Porto, a BETA Portugal promete um evento insquecível. Com uma forte componente educativa, momentos para conheceres os teus "colegas de trabalho e oponentes políticos" tal como a boa tradição Coimbrã manda, assim como a oportunidade de questionares decisores políticos e partilhares a tua exepriência quanto à conferência.
 
-De **19 a 23 de Fevereiro de 2020,** terás todas essas hipotéses e durante estes cinco dias irás sentir o que é ser um "Policy maker" ou "influencer" em primeira mão.
+
+
+De 19 a 23 de Fevereiro de 2020, terás todas essas hipotéses e durante estes cinco dias irás sentir o que é ser um "Policy maker" ou "influencer" em primeira mão.
+
+
 
 Poderás escolher ser:
+
+
 
 * Eurodeputado
 * Ministro
