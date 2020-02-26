@@ -12,7 +12,7 @@ share: true
 published: true
 edit: true
 ---
-A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da Terceira edição do Model European Union em PORTUGUÊS.
+A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da Terceira Edição do Model European Union em PORTUGUÊS.
 
 Como em edições passadas, o MEU Lisboa e o MEU Porto, a BETA Portugal promete um evento insquecível. Com uma forte componente educativa, momentos para conheceres os teus "colegas de trabalho e oponentes políticos" tal como a boa tradição Coimbrã dita, assim como a oportunidade de questionares decisores políticos e partilhares a tua exepriência quanto à conferência.
 
