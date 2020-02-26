@@ -18,13 +18,10 @@ Como em edições passadas, o MEU Lisboa e o MEU Porto, a BETA Portugal promete 
 
 
 
-De 19 a 23 de Fevereiro de 2020, terás todas essas hipotéses e durante estes cinco dias irás sentir o que é ser um "Policy maker" ou "influencer" em primeira mão.
-
+De 19 a 23 de Fevereiro de 2020, terás todas essas hipotéses e durante estes cinco dias irás sentir o que é ser um "policy maker" ou "influencer" em primeira mão.
 
 
 Poderás escolher ser:
-
-
 
 * Eurodeputado
 * Ministro
