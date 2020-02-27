@@ -1,12 +1,9 @@
 ---
 title: Model European Union Coimbra
-<<<<<<< HEAD
 excerpt: Model European Union Coimbra
 date: '2019-12-15 09:16:00'
-=======
 excerpt: MEU Coimbra
 date: '2019-02-12 11:09:00'
->>>>>>> fe2bdfd26339e624a86b44df04498534edf562a8
 comments: false
 share: true
 published: true
