@@ -7,7 +7,7 @@ share: true
 published: true
 edit: true
 ---
-contact@portugal.beta-europe.org
+<p align="justify">
 
 A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da Terceira Edição do Model European Union em PORTUGUÊS.
 
@@ -30,19 +30,11 @@ Poderás escolher ser:
 <p align="justify">
 
 * Eurodeputado
-</p>
-<p align="justify">
 * Ministro
-</p>
-<p align="justify">
 * Lobista
-</p>
-<p align="justify">
 * Jornalista
-</p>
-<p align="justify">
 * Intérprete
-</p>
+
 <p align="justify">
 
 As [candidaturas](https://docs.google.com/forms/d/e/1FAIpQLSer3_DjARFnSfRXjzJzOIoLIQPpdJqt6FX1yc66o0KY56PYiA/viewform) estão abertas, portanto não percas esta oportunidade.
