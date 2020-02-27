@@ -43,7 +43,7 @@ As [candidaturas](https://docs.google.com/forms/d/e/1FAIpQLSer3_DjARFnSfRXjzJzOI
 </p>
 <p align="justify">
 
-Para estares a par das novidades em volta do evento, consulta a nossa página do [Facebook](https://www.facebook.com/pg/betaportugal.official/posts/?ref=page_internal)
+Para estares a par das novidades em volta do evento, consulta a nossa página do [Facebook](https://www.facebook.com/pg/betaportugal.official/posts/?ref=page_internal).
 
 </p>
 <p align="justify">
