@@ -10,7 +10,7 @@ president: Dra. Sofia Colares Alves
 country: Portugal
 town: Lisboa
 header:
-  teaser: /assets/images/1200px-comissao_europeia.svg.png
+  teaser: /assets/images/Comissão Europeia.png
 ---
 A Representação da Comissão Europeia em Portugal tem um papel fundamental de aproximação e contacto com os cidadãos e de promoção das iniciativas da Comissão no nosso país.
 
