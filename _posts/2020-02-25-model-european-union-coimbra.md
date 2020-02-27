@@ -6,10 +6,7 @@ comments: false
 share: true
 published: true
 edit: true
-page__content {
-
-
-  text-align: justify;
+text-align: justify;
 ---
 
 A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da Terceira Edição do Model European Union em PORTUGUÊS.
