@@ -14,6 +14,7 @@ location: Faculdade de Direito da Universidade de Lisboa
 header:
   image: ''
   teaser: /assets/images/logo_aafdl-840x693.png
+Published: False
 ---
 A Associação Académica da Faculdade de Direito de Lisboa (AAFDL) é a estrutura representativa dos estudantes dessa Faculdade.
 
