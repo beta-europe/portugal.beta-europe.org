@@ -1,9 +1,7 @@
 ---
 title: O futuro da BETA Portugal
-<<<<<<< HEAD
 excerpt: No dia 10 de Dezembro de 2019, a BETA Portugal foi convidada para uma reunião com o responsável da campanha "#DestaVezEuVoto".
 date: '2019-12-14 09:16:00'
-=======
 comments: false
 share: true
 published: true
