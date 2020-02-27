@@ -26,6 +26,9 @@ São ações como estas, a nível local e de natureza orgânica, que ajudam a di
 
 Da equipa da BETA Portugal um muito obrigado ao Gabinete do Parlamento Europeu por acreditarem em todos nós e que 2020 seja um ano mais ativo e de maior conhecimento do Projecto Europeu.
 
+</p>
+<p align="justify">
+
 Votos de um Feliz Natal e Próspero Ano Novo!
 
 </p>
