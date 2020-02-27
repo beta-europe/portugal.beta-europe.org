@@ -6,14 +6,14 @@ comments: false
 share: true
 published: true
 edit: true
-text-align: justify;
+text-align: justify
 ---
 
 A cidade dos Estudantes, da Tradição Académica e da Universidade mais antiga em Portugal será a anfitriã da Terceira Edição do Model European Union em PORTUGUÊS.
 
-Como em edições passadas, o MEU Lisboa e o MEU Porto, a BETA Portugal promete um evento insquecível. Com uma forte componente educativa, momentos para conheceres os teus "colegas de trabalho e oponentes políticos" tal como a boa tradição Coimbrã dita, assim como a oportunidade de questionares decisores políticos e partilhares a tua exepriência quanto à conferência.
+Como em edições passadas, o MEU Lisboa e o MEU Porto, a BETA Portugal promete um evento inesquecível. Com uma forte componente educativa, momentos para conheceres os teus "colegas de trabalho e oponentes políticos" tal como a boa tradição Coimbrã dita, assim como a oportunidade de questionares decisores políticos e partilhares a tua experiência quanto à conferência.
 
-De 19 a 23 de Fevereiro de 2020, terás todas essas hipotéses e durante estes cinco dias irás sentir o que é ser um "policy maker" ou "influencer" em primeira mão.
+De 19 a 23 de Fevereiro de 2020, terás todas essas hipóteses e durante estes cinco dias irás sentir o que é ser um "policy maker" ou "influencer" em primeira mão.
 
 Poderás escolher ser:
 
