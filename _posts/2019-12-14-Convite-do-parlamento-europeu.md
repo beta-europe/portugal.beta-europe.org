@@ -6,8 +6,6 @@ comments: false
 share: true
 published: true
 edit: true
-header:
-  image: /assets/images/Gab.Par.Europeu.jpg
 ---
 No dia 10 de Dezembro de 2019, a BETA Portugal foi convidada a fazer parte de uma reunião no Gabinete do Parlamento Europeu em Portugal, em Lisboa, onde estavam presentes várias associações que participaram ativamente na consciencialização da importância para as eleições Europeias e fizeram parte do movimento "#DestaVezEuVoto".
 
@@ -18,3 +16,5 @@ São ações como estas, a nível local e de natureza orgânica, que ajudam a di
 Da equipa da BETA Portugal um muito obrigado ao Gabinete do Parlamento Europeu por acreditarem em todos nós e que 2020 seja um ano mais ativo e de maior conhecimento do Projecto Europeu.
 
 Votos de um Feliz Natal e Próspero Ano Novo!
+
+![Gab.Par.Europeu](/assets/images/Gab.Par.Europeu.jpg)
