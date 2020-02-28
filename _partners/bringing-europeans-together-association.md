@@ -4,8 +4,7 @@ title: Bringing Europeans Together Association
 website: 'http://www.beta-europe.org/'
 twitter: BETA_Europe
 mail: contact@beta-europe.org
-excerpt: >-
-A BETA Europa é a "umbrella organization" que gere a rede de todas as BETAs
+excerpt: A BETA Europa é a "umbrella organization" que gere a rede de todas as BETAs
 espalhadas pelo continente europeu!
 president: Cláudio Teixeira
 header:
