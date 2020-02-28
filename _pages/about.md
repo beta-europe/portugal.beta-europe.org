@@ -13,24 +13,24 @@ Os Órgãos Sociais eleitos para 2017/2018 são:
 
 **Direção**
 
-![Presidente - Cláudia Silva](/assets/images/cláudia Silva.png)
+![Presidente - Fernando Ruivo](/assets/images/Fernando Ruivo.png)
 
-![Vice Presidente - Catarina Neves](/assets/images/Catarina Neves.png)
+![Vice Presidente - João Sá](/assets/images/João Sá.png)
 
-![Tesoureiro - Francisco Cabral](/assets/images/Francisco Cabral.png)
+![Tesoureiro - Íris Campos](/assets/images/Íris Campos.png)
 
 **Assembleia Geral**
 
-![Presidente - Jorge Campos](/assets/images/Jorge Campos.png)
+![Presidente - Ivo Vaz](/assets/images/Ivo Vaz.png)
 
-![Vice Presidente - Rui Guilherme Araújo](/assets/images/Rui Araújo.png)
+![Vice Presidente - Giuliano Cantadore](/assets/images/Giuliano Cantadore.png)
 
-![Secretário - Miguel Guedes](/assets/images/Miguel Guedes.png)
+![Secretário - Inês Moura](/assets/images/Inês Moura.png)
 
 **Conselho Fiscal**
 
-![Presidente - André Rodrigues](/assets/images/André Rodrigues.png)
+![Presidente - Dussu Djabula](/assets/images/Dussu Djabula.png)
 
-![Vice Presidente - André Carvalho](/assets/images/André Carvalho.png)
+![Vice Presidente - Francisco Carneiro](/assets/images/Francisco Carneiro.png)
 
-![Secretária - Telma Roque](/assets/images/Telma Roque.png)
+![Secretária - Fábia Teixeira](/assets/images/Fábia Teixeira.png)
