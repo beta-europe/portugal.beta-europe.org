@@ -1,16 +1,15 @@
 ---
 slug: A nossa primeira parceria!
-title: 'Bringing Europeans Together Association '
-website: www.beta-europe.org
+title: 'Bringing Europeans Together Association'
+website: 'http://www.beta-europe.org/'
 twitter: BETA_Europe
 mail: contact@beta-europe.org
 excerpt: >-
-  A BETA Europa é a "umbrella organization" que gere a rede de todas as BETAs
-  espalhadas pelo continente europeu!
+A BETA Europa é a "umbrella organization" que gere a rede de todas as BETAs
+espalhadas pelo continente europeu!
 president: Cláudio Teixeira
 header:
-  image: ''
-  teaser: /assets/images/BETA Europe.png
+  teaser: /assets/images/beta europe.png
 ---
 A BETA é uma associação politicamente independente e sem fins lucrativos fundada na Alemanha em 2008. O objetivo é fortalecer a sociedade europeia, incentivando os processos democráticos e a consciência sobre a pluralidade das identidades europeias, tanto na nível nacional como internacional.
 
