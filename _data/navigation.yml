@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: Notícias
     url: /news/
+  - title: Sócios
+    url: /sócios/
   - title: Calendário MEUs
     url: 'https://www.beta-europe.org/calendar/'
   - title: Parcerias
