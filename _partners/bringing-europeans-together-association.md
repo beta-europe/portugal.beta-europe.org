@@ -5,11 +5,7 @@ website: 'http://www.beta-europe.org/'
 twitter: BETA_Europe
 mail: contact@beta-europe.org
 excerpt: >-
-  BETA is a politically independent and non-profit association founded in
-  Germany in 2008. Our name stands for Bringing Europeans Together Association
-  because this is our mission: to strengthen the European society by encouraging
-  democratic processes and consciousness about the plurality of European
-  identities, both on national and international level.
+A BETA Europa é a "umbrella organization" que gere a rede de todas as BETAs espalhadas pelo continente europeu!
 header:
   teaser: /assets/images/BETA Europe.png
 ---
