@@ -1,7 +1,6 @@
 ---
 slug: >-
-  A Rep. da Comissão Europeia em Portugal é um parceiro de que muito nos
-  orgulhamos!
+  A Rep. da Comissão Europeia em Portugal é um parceiro de que muito nos orgulhamos!
 title: Representação da Comissão Europeia em Portugal
 website: 'https://ec.europa.eu/portugal/home_pt'
 twitter: CE_PTrep
