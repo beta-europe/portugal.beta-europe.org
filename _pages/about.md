@@ -9,7 +9,7 @@ O nosso projeto principal é o Model European Union que é uma simulação do pr
 
 Para estares a par de todas as novidades da BETA Portugal podes seguir-nos no nosso [facebook](https://www.facebook.com/betaportugal.official/), [instagram](https://www.instagram.com/betaportugal.official/) ou do nosso [twitter](https://twitter.com/beta_portugal)
 
-Os Órgãos Sociais eleitos para 2017/2018 são:
+Os Órgãos Sociais eleitos para 2019/2020 são:
 
 **Direção**
 
