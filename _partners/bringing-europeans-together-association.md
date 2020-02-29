@@ -3,7 +3,6 @@ slug: BETA Europe
 title: Bringing Europeans Together Association
 website: 'http://www.beta-europe.org/'
 twitter: BETA_Europe
-instagram: @beta_europe
 mail: contact@beta-europe.org
 excerpt: >-
   BETA is a politically independent and non-profit association founded in
