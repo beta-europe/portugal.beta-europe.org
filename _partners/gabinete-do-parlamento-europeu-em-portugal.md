@@ -15,5 +15,4 @@ geo: 38.720123,-9.146811
 
 O Gabinete do Parlamento Europeu em Portugal tem um papel fundamental de aproximação e contacto com os cidadãos e de promoção das iniciativas do Parlamento Europeu no nosso país.
 
-
 <!--EndFragment-->
