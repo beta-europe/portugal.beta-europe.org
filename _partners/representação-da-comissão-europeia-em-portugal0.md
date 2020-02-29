@@ -3,7 +3,7 @@ slug: >-
   A Rep. da Comissão Europeia em Portugal é um parceiro de que muito nos orgulhamos!
 title: Gabinete do Paralemnto Europeu em Portugal
 website: 'https://www.europarl.europa.eu/portugal/pt/'
-twitter: @PE_Portugal
+twitter: '@PE_Portugal'
 mail: eplisboa@europarl.europa.eu
 president: Dr. Pedro Vante da Silva
 country: Portugal
