@@ -8,7 +8,7 @@ mail: comm-rep-pt-hor@ec.europa.eu
 president: Dra. Sofia Colares Alves
 country: Portugal
 town: Lisboa
-geo: 38.7201234,-9.1468115
+geo: 38.720123,-9.146811
 header:
   teaser: /assets/images/Comissão Europeia.png
 ---
