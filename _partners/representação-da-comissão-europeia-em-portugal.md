@@ -4,6 +4,8 @@ slug: >-
 title: Representação da Comissão Europeia em Portugal
 website: 'https://ec.europa.eu/portugal/home_pt'
 twitter: CE_PTrep
+Facebook: https://www.facebook.com/RepresentacaoComissaoEuropeia/
+instagram: https://www.instagram.com/comissao_europeia_pt/?hl=pt
 mail: comm-rep-pt-hor@ec.europa.eu
 president: Dra. Sofia Colares Alves
 country: Portugal
