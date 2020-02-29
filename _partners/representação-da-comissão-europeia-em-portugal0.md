@@ -1,7 +1,7 @@
 ---
 slug: >-
   A Rep. da Comissão Europeia em Portugal é um parceiro de que muito nos orgulhamos!
-title: Representação da Comissão Europeia em Portugal
+title: Gabinete do Paralemnto Europeu em Portugal
 website: 'https://ec.europa.eu/portugal/home_pt'
 twitter: CE_PTrep
 mail: comm-rep-pt-hor@ec.europa.eu
