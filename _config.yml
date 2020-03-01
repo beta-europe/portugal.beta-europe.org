@@ -100,7 +100,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
   github           : "orgs/beta-europe/teams/beta-portugal/members"
   gitlab           :
@@ -293,9 +293,9 @@ defaults:
       author_profile: true
       #sidebar:
         #- title: BETA Europe
-          #image: "/assets/images/beta-logo-180-transparent.png"
-          #image_alt: Logo of BETA Europe
-          #text: Bringing Europeans Together Association
+          #image: "/assets/images/beta-logo-600.png"
+          #image_alt: Logo of BETA Portugal
+          #text: Bringing Europeans Together Association Portugal
       share: true
       edit: true
       comments: false
