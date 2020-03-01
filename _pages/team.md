@@ -7,24 +7,24 @@ Os Órgãos Sociais eleitos para 2019/2020 são:
 
 **Direção**
 
-![Presidente - Fernando Ruivo](/assets/images/Fernando Ruivo.png) ![Vice Presidente - João Sá](/assets/images/João Sá.png) ![Tesoureiro - Íris Campos](/assets/images/Íris Campos.png)
+![Presidente - Fernando Ruivo](/assets/images/fernando-ruivo.jpg)
 
-![Vice Presidente - João Sá](/assets/images/João Sá.png)
+![Vice Presidente - João Sá](/assets/images/joao-sa.jpg)
 
-![Tesoureiro - Íris Campos](/assets/images/Íris Campos.png)
+![Tesoureiro - Íris Campos](/assets/images/iris-campos.jpg)
 
 **Assembleia Geral**
 
-![Presidente - Ivo Vaz](/assets/images/Ivo Vaz.png)
+![Presidente - Ivo Vaz](/assets/images/ivo-vaz.jpg)
 
-![Vice Presidente - Giuliano Cantadore](/assets/images/Giuliano Cantadore.png)
+![Vice Presidente - Giuliano Cantadore](/assets/images/giuliano-cantadore.jpg)
 
-![Secretário - Inês Moura](/assets/images/Inês Moura.png)
+![Secretário - Inês Moura](/assets/images/ines-moura.jpg)
 
 **Conselho Fiscal**
 
-![Presidente - Dussu Djabula](/assets/images/Dussu Djabula.png)
+![Presidente - Dussu Djabula](/assets/images/dussu-djabula.jpg)
 
-![Vice Presidente - Francisco Carneiro](/assets/images/Francisco Carneiro.png)
+![Vice Presidente - Francisco Carneiro](/assets/images/francisco-cabral.jpg)
 
-![Secretária - Fábia Teixeira](/assets/images/Fábia Teixeira.png)
+![Secretária - Fábia Teixeira](/assets/images/fabia-teixeira.jpg)
