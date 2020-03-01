@@ -3,7 +3,7 @@ title: Equipa da BETA Portugal
 modified: '2020-01-09T21:39:37+01:00'
 excerpt: 'Estes são os jovens que estão à frente da BETA Portugal e representam Portugal na rede Europeia.'
 ---
-Os Órgãos Sociais eleitos para 2019/2020 são:
+Para o mandato 2019/2020 foram eleitos para os órgãos sociais da BETA Portugal os seguintes jovens.
 
 **Direção**
 
