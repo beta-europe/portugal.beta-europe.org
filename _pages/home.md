@@ -6,7 +6,7 @@ date: 2017-04-11 01:48:41 -04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-meu2015.jpg
+  overlay_image: /assets/images/meul-2018.jpg
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
@@ -32,7 +32,7 @@ A nossa missão é contribuir para o desenvolvimento de uma consciência europei
 
 [Sobre nós](/about/){:.btn .btn--primary}
 
-De modo a atingirmos os nossos objetivos, iremos realizar diversos eventos por todo o país, sendo o principal o Model European Union Lisbon. 
+De modo a atingirmos os nossos objetivos, iremos realizar diversos eventos por todo o país, sendo o principal o Model European Union Lisbon.
 
 [Eventos](/events/){:.btn .btn--primary}
 
