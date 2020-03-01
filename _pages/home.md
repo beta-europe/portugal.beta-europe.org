@@ -6,7 +6,7 @@ date: 2017-04-11 01:48:41 -04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/meul-2018.png
+  overlay_image: /assets/images/header-meu2015.jpg
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
