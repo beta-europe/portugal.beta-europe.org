@@ -94,13 +94,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portuguese chapter of Bringing Europeans Together Association e.V."
   location         : "Portugal"
-  email            : "portugal@beta-europe.org"
+  email            : "contact@portugal.beta-europe.org"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/betaportugal.official
   foursquare       :
   github           : "orgs/beta-europe/teams/beta-portugal/members"
   gitlab           :
@@ -114,7 +114,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/beta_portugal
   vine             :
   weibo            :
   xing             :
