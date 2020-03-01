@@ -7,7 +7,7 @@ Os Órgãos Sociais eleitos para 2019/2020 são:
 
 **Direção**
 
-![Presidente - Fernando Ruivo](/assets/images/Fernando Ruivo.png)
+![Presidente - Fernando Ruivo](/assets/images/Fernando Ruivo.png) ![Vice Presidente - João Sá](/assets/images/João Sá.png) ![Tesoureiro - Íris Campos](/assets/images/Íris Campos.png)
 
 ![Vice Presidente - João Sá](/assets/images/João Sá.png)
 
