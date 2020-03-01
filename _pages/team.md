@@ -25,6 +25,6 @@ Os Órgãos Sociais eleitos para 2019/2020 são:
 
 ![Presidente - Dussu Djabula](/assets/images/dussu-djabula.jpg)
 
-![Vice Presidente - Francisco Carneiro](/assets/images/francisco-cabral.jpg)
+![Vice Presidente - Francisco Carneiro](/assets/images/francisco-carneiro.jpg)
 
-![Secretária - Fábia Teixeira](/assets/images/fabia-teixeira.jpg)
+![Secretária - Fábia Teixeira](/assets/images/fábia-teixeira.jpg)
