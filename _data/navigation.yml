@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: Notícias
     url: /news/
+  - title: Equipa
+    url: /team/
   - title: Sócios
     url: /sócios/
   - title: Calendário MEUs
