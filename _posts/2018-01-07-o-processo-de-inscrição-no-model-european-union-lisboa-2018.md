@@ -5,7 +5,7 @@ date: '2018-01-07 09:46:42'
 comments: false
 share: true
 published: false
-edit: true
+edit: false
 ---
 Para te inscreveres, terás de preencher um formulário com os teus dados e anexar um documento com um comentário a uma das seguintes questões:
 
@@ -19,13 +19,13 @@ O formulário está disponível [aqui](https://goo.gl/forms/qUomVNZ12xDFIIbi1)
 
 \    Fecho das inscrições: 10 de fevereiro
 
-As inscrições para o MEU Lisboa começam bastante tempo antes da simulação, bem contra a tradição portuguesa. Este tempo é necessário para que todos os participantes sejam encaminhados para a sua instituição, país e partido (no caso dos eurodeputados e ministros) e para que os jornalistas consigam desenvolver algumas das suas plataformas atempadamente. 
+As inscrições para o MEU Lisboa começam bastante tempo antes da simulação, bem contra a tradição portuguesa. Este tempo é necessário para que todos os participantes sejam encaminhados para a sua instituição, país e partido (no caso dos eurodeputados e ministros) e para que os jornalistas consigam desenvolver algumas das suas plataformas atempadamente.
 
 Após o fecho das inscrições, os participantes receberam um email de confirmação, onde estarão os detalhes da sua participação. Por exemplo:
 
 “Caro Participante,
 
-No MEU Lisboa 2018 serás 
+No MEU Lisboa 2018 serás
 
 ```
 Ministro *

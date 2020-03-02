@@ -2,6 +2,8 @@
 title: Parcerias
 modified: 2017-12-26T00:00:00.000Z
 excerpt: As nossas parcerias tornam-nos mais fortes. Conhece os nossos parceiros!
+share: false
+edit: false
 ---
 Se a tua associação tem valores e objetivos semelhantes a nós, então uma parceria seria vantajosa para ambos! Apresenta-te num [email](contact@portugal.beta-europe.org) e entraremos em contacto assim que possível.
 

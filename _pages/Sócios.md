@@ -2,6 +2,7 @@
 title: Sócios
 modified: '2020-01-09T21:39:37+01:00'
 excerpt: 'Torna-te sócio'
+edit: false
 ---
 Segue-nos no [**Facebook**](www.facebook.com/betaportugal.official/) para estares a par de todas as nossas iniciativas!
 

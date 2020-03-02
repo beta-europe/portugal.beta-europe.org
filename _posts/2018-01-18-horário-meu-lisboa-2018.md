@@ -7,13 +7,13 @@ date: '2018-01-18 08:56:51'
 comments: false
 share: true
 published: false
-edit: true
+edit: false
 ---
 # Horário
 
 De modo a que a simulação decorra sem atrasos, pedimos a todos os participantes que conheçam e cumpram este horário.
 
-Qualquer atraso previsto e imprevisto deverá ser comunicado à organização através de email, mensagem para a página de facebook ou para o número pessoal da Diretora Geral, Cláudia Silva. 
+Qualquer atraso previsto e imprevisto deverá ser comunicado à organização através de email, mensagem para a página de facebook ou para o número pessoal da Diretora Geral, Cláudia Silva.
 
 ## Quinta feira
 
@@ -69,7 +69,7 @@ Qualquer atraso previsto e imprevisto deverá ser comunicado à organização at
 
 14h -16h45 > Simulação
 
-16h45 - 17h15 > 
+16h45 - 17h15 >
 
 17H15 - 19h15 > Simulação
 
