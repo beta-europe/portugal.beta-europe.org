@@ -103,7 +103,7 @@ Enquanto ministro, deves ter conhecimento sobre as políticas do Estado Membro q
 
 <p align="justify">
 
-Primeiramente, podemos assegurar que este é um dos papeis mais dinâmicos desta simulação. O teu trabalho será recolher informação durante o dia de trabalho para criares uma peça de informação diária. isto inclui fazer entrevistas aos ministros e eurodeputados, mas também com a Presidência do Parlamento e do Conselho (os *Chairs*).  É importante manteres os olhos sempre abertos, principalmente durante os coffee breaks, momentos em que poderás recolher informação valiosa sobre os restantes participantes. Os jornalistas não têm acesso ao Conselho, por isso, é importante aproveitar todas as pausas para perceber o que se passa por lá. É importante manter todos informados sobre sucessos ou falhanços nos acordos e negociações formados.
+Primeiramente, podemos assegurar que este é um dos papeis mais dinâmicos desta simulação. O teu trabalho será recolher informação durante o dia de trabalho para criares uma peça de informação diária. isto inclui fazer entrevistas aos ministros e eurodeputados, mas também com a Presidência do Parlamento e do Conselho.  É importante manteres os olhos sempre abertos, principalmente durante os coffee breaks, momentos em que poderás recolher informação valiosa sobre os restantes participantes. Os jornalistas não têm acesso ao Conselho, por isso, é importante aproveitar todas as pausas para perceber o que se passa por lá. É importante manter todos informados sobre sucessos ou falhanços nos acordos e negociações formados.
 
 </p>
 <p align="justify">
