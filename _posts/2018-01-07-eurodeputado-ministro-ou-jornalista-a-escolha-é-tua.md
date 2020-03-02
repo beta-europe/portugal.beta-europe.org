@@ -99,13 +99,13 @@ Terás também a oportunidade de participar nas conferências de imprensa, em qu
 Enquanto ministro, deves ter conhecimento sobre as políticas do Estado Membro que estás a representar, mas também sobre as outras, de modo a criares alianças para alcançares o consenso no Conselho. Dado que, comparado com o Parlamento, os ministros são poucos, uma votação pode definir tudo, por isso, assegura-te de que tens o apoio necessário (não só dos ministros, mas também dos eurodeputados e jornalistas)!
 
 </p>
-<p align="justify">
+
 
 
 
 # **Jornalistas**
 
-</p>
+
 <p align="justify">
 
 Primeiramente, podemos assegurar que este é um dos papeis mais dinâmicos desta simulação. O teu trabalho será recolher informação durante o dia de trabalho para criares uma peça de informação diária. isto inclui fazer entrevistas aos ministros e eurodeputados, mas também com a Presidência do Parlamento e do Conselho (os _Chairs_).  É importante manteres os olhos sempre abertos, principalmente durante os coffee breaks, momentos em que poderás recolher informação valiosa sobre os restantes participantes. Os jornalistas não têm acesso ao Conselho, por isso, é importante aproveitar todas as pausas para perceber o que se passa por lá. É importante manter todos informados sobre sucessos ou falhanços nos acordos e negociações formados.
