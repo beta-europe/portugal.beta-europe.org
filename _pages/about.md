@@ -2,7 +2,7 @@
 title: Apresentação
 modified: '2018-06-09T21:39:37+01:00'
 excerpt: 'Sobre a BETA Portugal '
-Sharing: False
+share: false
 ---
 A BETA Portugal é uma associação juvenil sem fins lucrativos criada em 2017 como o ramo português da Bringing Europeans Together Association. O nosso objetivo é contribuir para o desenvolvimento de uma consciência europeia entre os jovens, espalhar o conhecimento sobre como a União Europeia funciona e o que significa ser um Cidadão Europeu.
 
