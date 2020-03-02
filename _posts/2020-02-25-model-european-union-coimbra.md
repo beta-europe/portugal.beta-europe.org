@@ -2,7 +2,7 @@
 title: Model European Union Coimbra
 excerpt: A terceira edição nacional do Model European Union chega a Coimbra!
 date: '2019-12-20 09:16:00'
-comments: false
+comments: true
 share: true
 published: true
 edit: false
