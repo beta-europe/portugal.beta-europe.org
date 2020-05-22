@@ -13,5 +13,6 @@ town: Lisboa
 geo: 38.720123,-9.146811
 header:
   teaser: /assets/images/EP logo CMYK_PT.png
+share: false
 ---
 O Gabinete do Parlamento Europeu em Portugal tem um papel fundamental de aproximação e contacto com os cidadãos e de promoção das iniciativas do Parlamento no nosso país.

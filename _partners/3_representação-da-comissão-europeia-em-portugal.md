@@ -11,6 +11,7 @@ town: Lisboa
 geo: 38.720123,-9.146811
 header:
   teaser: /assets/images/Comissão Europeia.png
+share: false
 ---
 A Representação da Comissão Europeia em Portugal tem um papel fundamental de aproximação e contacto com os cidadãos e de promoção das iniciativas da Comissão no nosso país.
 

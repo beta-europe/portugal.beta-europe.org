@@ -13,6 +13,7 @@ excerpt: >-
 header:
   teaser: /assets/images/BETA Europe.png
 geo: 50.6402809,4.6667145
+share: false
 ---
 <!--StartFragment-->
 
