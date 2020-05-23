@@ -23,10 +23,10 @@ Poderás escolher ser:
 * Intérprete
 
 
-As [candidaturas](https://docs.google.com/forms/d/e/1FAIpQLSer3_DjARFnSfRXjzJzOIoLIQPpdJqt6FX1yc66o0KY56PYiA/viewform) estão abertas, portanto não percas esta oportunidade.oLIQPpdJqt6FX1yc66o0KY56PYiA/viewform) estão abertas, portanto não percas esta oportunidade.
+As [candidaturas](https://docs.google.com/forms/d/e/1FAIpQLSer3_DjARFnSfRXjzJzOIoLIQPpdJqt6FX1yc66o0KY56PYiA/viewform) estão abertas, portanto não percas esta oportunidade.
 
 
-Para estares a par das novidades em volta do evento, consulta a nossa página do [Facebook](https://www.facebook.com/pg/betaportugal.official/posts/?ref=page_internal).[Facebook](https://www.facebook.com/pg/betaportugal.official/posts/?ref=page_internal).
+Para estares a par das novidades em volta do evento, consulta a nossa página do [Facebook](https://www.facebook.com/pg/betaportugal.official/posts/?ref=page_internal).
 
 Encontramos em Coimbra!
 
