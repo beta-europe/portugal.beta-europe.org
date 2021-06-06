@@ -7,6 +7,7 @@ edit: false
 ---
 Foram eleitos no mandato 2019/2020 os seguintes jovens para os órgãos sociais da BETA Portugal.
 
+
 **Direção**
 
 ![Presidente - Fernando Ruivo](/assets/images/fernando-ruivo.jpg)
