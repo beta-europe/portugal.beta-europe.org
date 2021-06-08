@@ -5,6 +5,7 @@ excerpt: 'Estes são os jovens que estão à frente da BETA Portugal e represent
 share: false
 edit: false
 ---
+
 Para o mandato 2019/2020 foram eleitos para os órgãos sociais da BETA Portugal os seguintes jovens:
 
 **Direção**
