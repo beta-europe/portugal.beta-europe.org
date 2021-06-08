@@ -6,7 +6,7 @@ share: false
 edit: false
 ---
 
-Para o mandato 2019/2020 foram eleitos para os órgãos sociais da BETA Portugal os seguintes jovens:
+Foram eleitos no mandato 2019/2020 os seguintes jovens para os órgãos sociais da BETA Portugal.
 
 **Direção**
 
