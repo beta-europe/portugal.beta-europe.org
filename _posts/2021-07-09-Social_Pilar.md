@@ -1,20 +1,27 @@
 ---
-title: EU4Health Programme
-date: '2021-05-10 07:00:00'
+title: Plano de ação para a implementação do Pilar Europeu de Direitos Sociais
+date: '2021-07-09 07:00:00'
 comments: false
 share: true
 published: true
 edit: false
 ---
+O Pilar Europeu dos Direitos Sociais é constituído por vinte princípios que guiam os Estados-Membros com o intuito de fomentar uma Europa Social forte, estabelecendo os princípios e direitos fundamentais à criação de mercados de trabalho e de sistemas de proteção social justos e em bom funcionamento. Neste sentido, a União Europeia criou a Cimeira Social (“Social Summit”) com o objetivo de intensificar a força social da Europa de forma a acompanhar as alterações climáticas e a garantir uma igualdade de oportunidades a toda a população. Tendo a  Cimeira Social ocorrido no Porto, nos dias 7 e 8 de maio, durante a Presidência Portuguesa do Conselho da UE.
 
-No dia 28 de maio de 2020, a Comissão Europeia lançou uma proposta de regulamento sobre o novo programa da UE para a saúde – o EU4Health – a vigorar de 2021 a 2027.
-Enunciado como parte do plano de recuperação Next Generation EU (NGEU), o EU4Health visa incrementar a resiliência dos sistemas de saúde e intensificar a sua preparação no combate às principais ameaças transfronteiriças em contexto sanitário, assegurando que a União europeia detém todos os mecanismos necessários para permanecer a região mais saudável no panorama internacional.
-Através do “EU4Health Programme” serão investidos cerca de 5,1 mil milhões de euros, podendo ser este considerado o maior programa de saúde em termos monetários até então concebido. A sua robustez deve-se nomeadamente à necessidade de dar uma resposta às consequências da atual pandemia provocada pelo Covid-19, geradora de diversas adversidades com fortes repercussões para os profissionais de saúde, doentes e para todo o sistema de saúde.
-A problemática da saúde constitui um dos assuntos mais importantes no seio europeu, sendo que 1/3 dos inquiridos no Eurobarómetro sobre os Problemas Sociais acredita que a assistência médica é um dos assuntos mais importantes para o futuro da Europa.
+No último Eurobarómetro do Parlamento Europeu (Dezembro, 2020), os cidadãos indicaram uma nova prioridade a ser tida em conta pelo Parlamento: cerca de “48% dos inquiridos querem lutar contra a pobreza e a desigualdade social” (Parlamento Europeu, 2021) e cerca de 4/10 dos europeus acredita que o fenómeno das oportunidades iguais e o acesso aos mercados, a condições de trabalho justas e à assistência médica são os elementos mais importantes para a economia e para o desenvolvimento social da UE.
 
-![Banner](/assets/images/EuroB-QB8.png)
 
-Ou seja, de modo conciso, os principais objetivos deste programa de saúde são:
-* Reforçar o grau de preparação da UE para as principais ameaças sanitárias transfronteiriças através da construção de “reservas de material médico para situações de crise” (Comissão Europeia, 2021) e da criação de uma reserva de profissionais de saúde e peritos que estejam preparados para responder a crises sanitárias, aumentando simultaneamente a vigilância de possíveis ameaças.
-* Reforçar os sistemas de saúde para que consigam enfrentar pandemias, bem como desafios a longo prazo, estimulando a “prevenção de doenças e a promoção de saúde numa população envelhecida; a transformação digital dos sistemas de saúde e o acesso aos cuidados de saúde para os grupos vulneráveis” (Comissão Europeia, 2021).
-* Melhorar a disponibilização e a acessibilidade dos medicamentos e dos dispositivos médicos, defender a utilização prudente e eficiente dos agentes antimicrobianos, “bem como promover a inovação médica e farmacêutica e o fabrico mais ecológico” (Comissão Europeia, 2021).
+![Banner](/assets/images/Eurobarómetro image_1.png)
+![Banner](/assets/images/Eurobarómetro image_2.png)
+
+Deste modo, a Comissão Europeia apresentou um novo Plano de Ação para a implementação do Pilar Europeu dos Direitos Sociais, no qual são propostos objetivos concretos que orientem as decisões políticas dos Estados-Membros. Ambiciona-se acelerar a implementação dos princípios e direitos sociais e a sua respetiva transformação em realidade, defendendo o uso pleno dos diferentes fundos da União Europeusia para impulsionar o investimento social. Neste sentido, o plano estabelece metas ambiciosas de emprego, competências e proteção social com alcance até 2030, atuando em consonância com os Objetivos de Desenvolvimento Sustentável das Nações Unidas.
+
+Os novos objetivos essenciais envolvem:
+
+* Empregar pelo menos 78% da população da UE com idades entre 20 e 64 anos;
+* A participação todos os anos em formação de pelo menos 60% dos adultos e a redução em pelo menos 15 milhões do número de pessoas em risco de pobreza ou exclusão social;
+* A apresentação de uma recomendação pela Comissão Europeia sobre o Apoio Ativo Eficaz ao Emprego (EASE), “que visa orientar a transição de medidas de emergência para empregos sustentáveis e preparados para o futuro” (European Committee of the Regions, 2021).
+
+Sendo possível ler a declaração da Conferência do Porto [aqui](https://www.consilium.europa.eu/en/press/press-releases/2021/05/08/the-porto-declaration/).
+
+A atual pandemia provocada pela Covid-19 atuou como uma rutura dos padrões de normalidade e dispôs a Europa perante uma crise multidimensional extrema, incentivando várias cidades e regiões a cooperar na construção de uma Europa social forte que garanta uma rápida transição e uma boa recuperação. Deste modo, a presidência portuguesa do Conselho da UE solicitou ao Comité das Regiões Europeu que “elaborasse um parecer sobre a implementação do Pilar Europeu dos Direitos Sociais numa perspetiva local e regional” (European Committee of the Regions, 2021), no qual podemos ler a opinião [aqui](https://cor.europa.eu/EN/our-work/Pages/OpinionTimeline.aspx?opId=CDR-1127-2021).
