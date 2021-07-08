@@ -1,6 +1,6 @@
 ---
 title: Plano de ação para a implementação do Pilar Europeu de Direitos Sociais
-date: '2021-07-09 07:00:00'
+date: '2021-07-09 00:25:00'
 comments: false
 share: true
 published: true
