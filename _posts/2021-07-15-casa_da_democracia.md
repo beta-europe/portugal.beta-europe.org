@@ -6,7 +6,7 @@ share: true
 published: true
 edit: false
 ---
-Nos meses que precediam maio de 2019, os eleitores letões depararam-se em Riga com cartazes de campanha do Partido Social Democrata da Letónia com a foto de… um holandês. Nesses cartazes lia-se “Nosso presidente para o futuro da Europa” e o holandês em questão era Frans Timmermans, candidato do grupo parlamentar europeu de centro-esquerda nomeado à Presidência da Comissão Europeia. Um pouco confuso? Passo a explicar.
+Nos meses que precediam Maio de 2019, os eleitores letões depararam-se em Riga com cartazes de campanha do Partido Social Democrata da Letónia com a foto de… um holandês. Nesses cartazes lia-se “Nosso presidente para o futuro da Europa” e o holandês em questão era Frans Timmermans, candidato do grupo parlamentar europeu de centro-esquerda nomeado à Presidência da Comissão Europeia. Um pouco confuso? Passo a explicar.
 
 O Parlamento Europeu, um dos dois órgãos oficiais de codecisão legislativa, consiste num hemiciclo composto por 705 eurodeputados de 27 estados-membros diferentes. Tendo em conta as suas identidades partidárias, estes ficam divididos por 7 grupos parlamentares ideologicamente distintos e um grupo de membros “não inscritos”. Anteriormente ao início das eleições europeias, cada grupo tem a liberdade de nomear as suas “cabeças de lista” ou “candidatos de primeira linha”, também conhecidos no jargão de Bruxelas como o “spitzenkandidat”, para a futura presidência executiva na Comissão Europeia — no que ficaria conhecido como o processo Spitzenkandidaten. Após a eleição dos eurodeputados, o grupo que obtivesse mais assentos parlamentares tornar-se-ia o grupo mais apto para nomear o seu candidato como o próximo Presidente da Comissão durante os subsequentes 5 anos.
 
